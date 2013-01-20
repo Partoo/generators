@@ -18,8 +18,8 @@
   "author": "Chrome Developer Relations",
   "main": "./main.js",
   "repository": {
-    "type": "git",
-    "url": "git://github.com/yeoman/generators.git"
+    "type": "https",
+    "url": "https://github.com/yeoman/generators"
   },
   "scripts": {
     "test": "DEBUG=generators:* mocha test/*.js --reporter list",
